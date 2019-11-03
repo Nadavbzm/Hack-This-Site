@@ -1,0 +1,4 @@
+m-crap@crappysoft.com,  m-crap, (owner)
+r-conner@crappysoft.com, r-conner (Sales man), password: ilovemywork
+K-huibert@crappysoft.com, k-huibert (Sales man)
+K-mercomic@crappysoft.com, k-mecormic (Developer)
